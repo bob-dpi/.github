@@ -28,9 +28,9 @@
 
 
 ### HOW
-- Replace your uC with an FPGA
+Replace your uC with an FPGA:
 - Buy an FPGA dev card with Pmod connectors
-- Select Pmod cards for your applicaiton
+- Select Pmod cards for your application
 - Visit https://demandperipherals.com/build to select peripherals
     -  Portal backend software links all peripherals in FPGA image<br>
        Peripheral list -> Makefile -> binary.  (No IDE needed)
